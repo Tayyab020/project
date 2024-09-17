@@ -1,0 +1,90 @@
+body{
+  margin: 0px;
+  padding: 0px;
+ 
+
+}
+header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color:aliceblue;
+  background-color:black
+}
+#name{
+  background: linear-gradient(#eee, #333);  /* The gradient color */
+  -webkit-background-clip: text;       /* Clip the background to the text */
+  background-clip: text;              /* For non-WebKit browsers */
+  color: transparent; 
+
+ 
+
+}
+#image{
+  width: 150px;
+  margin-left: auto !important; /* This pushes the image to the right */
+  border-radius: 50%;
+  margin-top: 20px;
+
+}
+#nav{
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 20px;background-color: #524f41;
+  background-image: linear-gradient(132deg, #524f41 0%, #1a2323 100%);
+}
+a{
+  color:whitesmoke;
+  margin: 6px;
+  
+}
+table{
+  border: 2px solid black;
+  justify-content:center;
+  align-items:center;
+  text-align: center;
+ width: 90%;
+  margin: 20px;
+
+
+}
+#EducationalHistory{
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+#ProfessionalSkills{
+  margin-left: 20px;
+}
+#ProfessionalProjects{
+  margin-left: 20px;
+}
+#Hobbies{
+  margin-left: 20px;
+}
+#life-ambitions{
+  margin-left: 20px;
+}
+#efforts-for-country{
+  margin-left: 20px;
+}
+#footer{
+  text-align: center;
+  background-color: black;
+  color:whitesmoke;
+  margin: 20px, 0px 0px, 0px;
+  padding:20px;
+  
+  height: 150px;
+ 
+}
+#logo{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.i
