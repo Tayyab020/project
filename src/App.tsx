@@ -1,5 +1,4 @@
 
-import React from 'react'
 import "./App.css"
 import profileimg from "./assets/WhatsApp Image 2024-09-06 at 9.05.18 AM.jpeg"
 
